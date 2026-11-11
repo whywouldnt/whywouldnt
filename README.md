@@ -1,4 +1,4 @@
-<img src="assets/baslik.svg" alt="Merhaba, ben Ali Rıza — Backend ve bulut odaklı Bilişim Sistemleri öğrencisi" width="100%">
+<img src="assets/baslik.svg" alt="Ali Rıza İçen — Bilişim Sistemleri ve Teknolojileri öğrencisi" width="100%">
 
 <div align="center">
 
@@ -43,7 +43,6 @@
 
 **Kullandıklarım**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -54,17 +53,10 @@
 
 **Öğrendiklerim**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 🔭 Şu an
-
-- 🥖 E-fatura botunun **ilk gerçek kesimine** hazırlanıyorum (Aralık 2026)
-- ☁️ Sıradaki hedefim: sunucuyu kodla kurmak (Infrastructure as Code) ve otomatik deploy
-- 🤝 **Backend ve bulut** alanında staj fırsatlarına açığım
 
 ---
 
@@ -77,6 +69,6 @@ Hi, I'm **Ali Rıza**, an Information Systems & Technologies student at Mehmet A
 
 My main project is a **Telegram bot that turns a bakery's handwritten delivery ledger into official e-invoices**: an LLM reads photos or free-form text, deterministic Python computes every amount and VAT, a human approves with one tap, and invoices go to the integrator over SOAP (UBL-TR 2.1). It runs 24/7 in isolated Docker containers on an Azure Linux VM, backed by 303 automated tests. → [Project showcase](https://github.com/whywouldnt/e-fatura-surec-otomasyonu)
 
-Open to backend & cloud internships. Reach me on [LinkedIn](https://www.linkedin.com/in/ali-r%C4%B1za-i%C3%A7en-184826322/) or by [email](mailto:alirizaicenn@gmail.com).
+Reach me on [LinkedIn](https://www.linkedin.com/in/ali-r%C4%B1za-i%C3%A7en-184826322/) or by [email](mailto:alirizaicenn@gmail.com).
 
 </details>
